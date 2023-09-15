@@ -43,7 +43,7 @@ void tablero()
 
     }
     Console.Write("=");
-    Console.WriteLine();//comentario2
+    Console.WriteLine();//comentario2 comentario3
     for (int i = 0; i < 9; i++)
     {
         int coordenaday = i + 1;
