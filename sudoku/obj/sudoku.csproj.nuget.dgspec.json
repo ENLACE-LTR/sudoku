@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\consulta\\Desktop\\skov4\\sudoku\\sudoku.csproj": {}
+    "C:\\Users\\consulta\\Desktop\\github projects\\sudoku\\sudoku\\sudoku.csproj": {}
   },
   "projects": {
-    "C:\\Users\\consulta\\Desktop\\skov4\\sudoku\\sudoku.csproj": {
+    "C:\\Users\\consulta\\Desktop\\github projects\\sudoku\\sudoku\\sudoku.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\consulta\\Desktop\\skov4\\sudoku\\sudoku.csproj",
+        "projectUniqueName": "C:\\Users\\consulta\\Desktop\\github projects\\sudoku\\sudoku\\sudoku.csproj",
         "projectName": "sudoku",
-        "projectPath": "C:\\Users\\consulta\\Desktop\\skov4\\sudoku\\sudoku.csproj",
+        "projectPath": "C:\\Users\\consulta\\Desktop\\github projects\\sudoku\\sudoku\\sudoku.csproj",
         "packagesPath": "C:\\Users\\consulta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\consulta\\Desktop\\skov4\\sudoku\\obj\\",
+        "outputPath": "C:\\Users\\consulta\\Desktop\\github projects\\sudoku\\sudoku\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

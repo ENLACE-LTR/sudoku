@@ -5,7 +5,7 @@ int[,] sudokuboard = { { 5, 3, 0, 0, 7, 0, 0, 0, 0 },
                        { 0, 6, 0, 0, 0, 0, 2, 8, 0 }, { 0, 0, 0, 4, 1, 9, 0, 0, 5 }, { 0, 0, 0, 0, 8, 0, 0, 7, 9 } };
 while (fin!='s')
 {
-
+    //comentario prueba1
     tablero();
    
     responder();
@@ -43,7 +43,7 @@ void tablero()
 
     }
     Console.Write("=");
-    Console.WriteLine();
+    Console.WriteLine();//comentario2
     for (int i = 0; i < 9; i++)
     {
         int coordenaday = i + 1;
